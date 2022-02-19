@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Triggz00
+- 👀 I’m interested in Fivem Codeing and more! 
+- 🌱 I’m currently learning Lua and javascript
+- 📫 How to reach me By discord which is Triggz#4318
